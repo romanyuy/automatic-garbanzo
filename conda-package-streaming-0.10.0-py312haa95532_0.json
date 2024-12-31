@@ -1,0 +1,57 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "zstandard >=0.15"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\conda-package-streaming-0.10.0-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/conda_package_streaming-0.10.0.dist-info/INSTALLER",
+    "Lib/site-packages/conda_package_streaming-0.10.0.dist-info/LICENSE",
+    "Lib/site-packages/conda_package_streaming-0.10.0.dist-info/METADATA",
+    "Lib/site-packages/conda_package_streaming-0.10.0.dist-info/RECORD",
+    "Lib/site-packages/conda_package_streaming-0.10.0.dist-info/REQUESTED",
+    "Lib/site-packages/conda_package_streaming-0.10.0.dist-info/WHEEL",
+    "Lib/site-packages/conda_package_streaming-0.10.0.dist-info/direct_url.json",
+    "Lib/site-packages/conda_package_streaming/__init__.py",
+    "Lib/site-packages/conda_package_streaming/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/conda_package_streaming/__pycache__/exceptions.cpython-312.pyc",
+    "Lib/site-packages/conda_package_streaming/__pycache__/extract.cpython-312.pyc",
+    "Lib/site-packages/conda_package_streaming/__pycache__/lazy_wheel.cpython-312.pyc",
+    "Lib/site-packages/conda_package_streaming/__pycache__/package_streaming.cpython-312.pyc",
+    "Lib/site-packages/conda_package_streaming/__pycache__/s3.cpython-312.pyc",
+    "Lib/site-packages/conda_package_streaming/__pycache__/transmute.cpython-312.pyc",
+    "Lib/site-packages/conda_package_streaming/__pycache__/url.cpython-312.pyc",
+    "Lib/site-packages/conda_package_streaming/exceptions.py",
+    "Lib/site-packages/conda_package_streaming/extract.py",
+    "Lib/site-packages/conda_package_streaming/lazy_wheel.py",
+    "Lib/site-packages/conda_package_streaming/package_streaming.py",
+    "Lib/site-packages/conda_package_streaming/s3.py",
+    "Lib/site-packages/conda_package_streaming/transmute.py",
+    "Lib/site-packages/conda_package_streaming/url.py",
+    ".nonadmin"
+  ],
+  "fn": "conda-package-streaming-0.10.0-py312haa95532_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\conda-package-streaming-0.10.0-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "3cfb78d748555927a5409ed2789d9a23",
+  "name": "conda-package-streaming",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\conda-package-streaming-0.10.0-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::conda-package-streaming==0.10.0=py312haa95532_0[md5=3cfb78d748555927a5409ed2789d9a23]",
+  "sha256": "0934ecf3be30c5af99d47525f91db89e6bf44224461fd1dfb82d671a52ec86bb",
+  "size": 34665,
+  "subdir": "win-64",
+  "timestamp": 1718136306000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/conda-package-streaming-0.10.0-py312haa95532_0.conda",
+  "version": "0.10.0"
+}
